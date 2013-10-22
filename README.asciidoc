@@ -20,7 +20,7 @@ git remote add getting-started-base https://github.com/gregturn/getting-started-
 
 === Pull in the base infrastructure
 [source]
-git pull getting-started-based master
+git pull getting-started-base master
 
 == Edit README.asciidoc
 Make all your edits to the guide. To pull in macros, simply use AsciiDoc's `include` macro, like this:
