@@ -26,7 +26,7 @@ git pull getting-started-based master
 Make all your edits to the guide. To pull in macros, simply use AsciiDoc's `include` macro, like this:
 
 [source]
-include::macro/header.txt
+include::macros/header.txt
 
 == View the page locally
 You can render the page locally and check it out inside a web browser, though this won't be identical to
