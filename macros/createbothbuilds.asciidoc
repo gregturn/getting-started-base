@@ -3,5 +3,5 @@ Below is the https://github.com/spring-guides/${project_id}/blob/master/initial/
 
 [source,java]
 ----
-include::initial/build.gradle"
+include::initial/build.gradle
 ----
